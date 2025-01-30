@@ -2,7 +2,7 @@
 
 ## 🌟 WordPress Developer | Web Expert 
 
-<img src="/web-development.png" width="250">
+<img src="/web-development.png" width="150">
 
 9+ years of experience creating stunning, high-performance websites to your unique business goals.
 
